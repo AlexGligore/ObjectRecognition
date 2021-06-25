@@ -1,0 +1,9 @@
+{
+    "save_results": false,
+    "images_size": [128, 128],
+    "images_folder": "./dataset_generation/data/originals/",
+    "images_format": [".jpg", ".png"],
+    "resized_images_folder": "./dataset_results/resized_images/",
+    "augmented_dataset_size_per_img": 200,
+    "augmented_dataset_folder": "./dataset_results/augmented_dataset/"
+}
